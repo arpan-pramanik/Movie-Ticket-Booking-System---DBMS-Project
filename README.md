@@ -1,6 +1,12 @@
 # Movie Ticket Booking System
 
 A robust, full-stack Movie Ticket Booking application designed with a strong emphasis on database management, transaction integrity, and modern frontend user experiences. This project seamlessly connects a relational database architecture with an intuitive Next.js web application.
+## Video Demo
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=LdpqDoyebG8">
+    <img src="https://img.youtube.com/vi/LdpqDoyebG8/0.jpg" alt="Watch the video">
+  </a>
+</p>
 
 ## Overview
 
